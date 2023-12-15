@@ -4,7 +4,7 @@ script.registerScript({
     name: "AnvilConvert",
     version: "1.0",
     description: "Convert MCregion worlds to Anvil!",
-    website: "https://github.com/Trollhunters501/JSEngineNK/",
+    website: "https://github.com/Trollhunters501/AnvilConvert",
     authors: ["Creadores Program"]
 });
 script.addEventListener("Enable", function(){
