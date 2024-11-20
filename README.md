@@ -5,6 +5,8 @@ Dependencies:
 
 [JSEngineNK](https://cloudburstmc.org/resources/jsenginenk.939/)
 
+[JSENK2](https://cloudburstmc.org/resources/jsenk2.1017/)
+
 Libs:
 
 [AnvilConverter](https://github.com/Awzaw/AnvilConverter/tree/v1.0)
