@@ -1,0 +1,7 @@
+name: AnvilConvert
+version: "1.2.0"
+api: "1.0.0"
+description: A plugin to convert old world data mcregion to the Anvil format
+website: "https://github.com/Trollhunters501/AnvilConvert"
+main: org.CreadoresProgram.AnvilConvert.AnvilConvert
+authors: [CreadoresProgram & Awzaw]
