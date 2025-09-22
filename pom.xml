@@ -35,6 +35,7 @@
             <groupId>net.minecraft.awzaw</groupId>
             <artifactId>anvil-converter</artifactId>
             <version>1.0.0</version>
+        </dependency>
     </dependencies>
     <build>
     <plugins>
